@@ -1,6 +1,6 @@
 # Hey👋
 
-My name is Stephan Serafim Fonseca, I'm from Brazil🇧🇷,
+My name is Stephan Serafim Fonseca, I'm from Brazil. 🇧🇷
 
 I'm passionate about solving problems, I'm always learning more, and I love challenges. 🚀
 
