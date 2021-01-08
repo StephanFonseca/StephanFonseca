@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hey👋
 
-<!--
-**StephanFonseca/StephanFonseca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Stephan Serafim Fonseca, I'm from Brazil🇧🇷,
 
-Here are some ideas to get you started:
+I'm passionate about solving problems, I'm always learning more, and I love challenges. 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📌 From Santa Catarina
+- 👨‍💻 FrontEnd Developer
+- ✨ I'm here to help and learn
+- 🗺️ And i also love to travel
+
+## Reach me out👇
+[![Linkedin Badge](https://img.shields.io/badge/-Stephan%20Fonseca-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stephan-serafim-fonseca-71a388202/)](https://www.linkedin.com/in/stephan-serafim-fonseca-71a388202/) [![Instagram Badge](https://img.shields.io/badge/-Stephan_Fonseca-6633cc?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/stephan_fonseka/)](https://www.instagram.com/stephan_fonseka/)
