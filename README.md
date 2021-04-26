@@ -1,6 +1,6 @@
 # Hey👋
 
-My name is Stephan Serafim Fonseca, I'm from Brazil. 🇧🇷   ![undraw_dev_productivity_umsq](https://user-images.githubusercontent.com/77129569/116123977-0f7da900-a69a-11eb-80f6-872079f248cd.png)<style> width: 20px; heigth: 20px; </style>
+My name is Stephan Serafim Fonseca, I'm from Brazil. 🇧🇷 
 
 I'm passionate about solving problems, I'm always learning more, and I love challenges. 🚀
 
