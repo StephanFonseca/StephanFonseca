@@ -1,4 +1,4 @@
-<img align="right" src="![undraw_dev_productivity_umsq](https://user-images.githubusercontent.com/77129569/116124924-47d1b700-a69b-11eb-883c-df4572512965.png)" width="300"/>
+<img align="right" src="https://github.com/josepholiveira/josepholiveira/blob/master/images/illustration.png" width="300"/>
 
 # Hey👋
 
