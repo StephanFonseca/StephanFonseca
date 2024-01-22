@@ -29,14 +29,22 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 <br><br>
+<br><br>
+<br><br>
+
+
 
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=stephanfonseca&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
+  <br><br>
+
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephanfonseca&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
 </p>
 
+<br><br>
+<br><br>
 <br><br>
 
 ## Contact
@@ -45,6 +53,7 @@
 <a href="https://www.linkedin.com/in/stephan-fonseca-92a341298/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-stephanfonseca-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
+
 <a href="https://www.instagram.com/eustephan.dev/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-stephanfonseca-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
